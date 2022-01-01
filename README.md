@@ -1,5 +1,5 @@
 # FileUpload
-A cool smol NodeJS project for file hosting
+A small NodeJS webapp for file hosting
 ## Setup
 
 *Before starting add your address under the address variable*
